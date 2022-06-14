@@ -1,0 +1,8 @@
+prefix=/panda_ws/devel
+
+Name: panda_moveit
+Description: Description of panda_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+franka_description:panda_moveit
+-DCATKIN_DEVEL_PREFIX=/panda_ws/devel -DCMAKE_INSTALL_PREFIX=/panda_ws/install -G Unix Makefiles
